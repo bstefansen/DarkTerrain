@@ -11,7 +11,7 @@ I built this project to better understand the Mapbox API and its integration wit
 - Users can visualization digital elevation
 
 ## Demo
-Link to the <a target="https://bstefansen.github.io/DarkTerrain/">Production Build</a>
+Link to <a target="https://bstefansen.github.io/DarkTerrain/">Production Build</a>
 
 ## License
 This project is licensed under the MIT License
